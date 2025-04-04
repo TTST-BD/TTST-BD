@@ -1,10 +1,11 @@
 ### TTST-BD
 ---
-Personal repogitories 
+#### Personal repogitories 
 ```Text
   Used to sync the Bubble.io plugin code.
+  Note: The plugin doesn't sync with organization Git.
 ```
-  <small>Note: The plugin doesn't sync with organization Git.</small>
+
 
 
 <!---
